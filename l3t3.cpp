@@ -1,4 +1,9 @@
-﻿#include <iostream>
+/*
+ Через do-while запросить пульс покоя от 30 до 120.
+ После корректного ввода вывести, меньше ли он 60, от 60 до 80 включительно или выше 80.
+*/
+
+#include <iostream>
 using namespace std;
 int main() {
 	setlocale(LC_ALL, "");
