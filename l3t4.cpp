@@ -1,4 +1,8 @@
-﻿#include <iostream>
+/*
+ Ввести weeks и days (1..7). Вложенными циклами вывести номера тренировочных дней вида week-day.
+ */
+
+#include <iostream>
 using namespace std;
 int main() {
 	setlocale(LC_ALL, "");
