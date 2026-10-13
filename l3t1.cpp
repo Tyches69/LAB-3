@@ -1,4 +1,8 @@
-﻿#include <iostream>
+/* 
+Ввести n (1..20) — число тренировок. С помощью for вывести калории каждой тренировки по формуле 100 + 20*i и общую сумму.
+*/
+
+#include <iostream>
 using namespace std;
 int main() {
 	setlocale(LC_ALL, "");
